@@ -23,6 +23,13 @@
 + [Pythonanywhere](Pythonanywhere.com)
 + [Rosalind](rosalind.info)
 
+# Libros
+
++ A Byte of Python
++ Python para todos
++ 
+
+
 
 [Link](url) and ![Image](src)
 
