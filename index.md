@@ -2,15 +2,9 @@
 
 ## MODULO DE Python
 
-Sergio Monsalve
-smonsal3@eafit.edu.co
++ Sergio Monsalve
++ smonsal3@eafit.edu.co
 
-
-# Presentaciones
-
-
-
-# Ejemplos
 
 ## Clase 1
   + Ejercicios
@@ -41,4 +35,3 @@ smonsal3@eafit.edu.co
 
 + A Byte of Python
 + Python para todos
-+
