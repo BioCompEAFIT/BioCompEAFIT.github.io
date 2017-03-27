@@ -14,7 +14,7 @@ smonsal3@eafit.edu.co
 
 ## Clase 1
   + Ejercicios
-  + ![RNA](ejemplos/EjemploRosalind/rna.py)
+  + [RNA](ejemplos/EjemploRosalind/rna.py)
 
 ## Clase 2
 
