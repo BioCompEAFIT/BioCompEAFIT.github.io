@@ -19,6 +19,14 @@
   + Funciones
   + Entrada y Salida 2 (lectura de archivos)
 
+### Tareas
+
++ BioPython
++ Leer sobre OOP (Programación Orientada a objetos)
++ Leer sobre, funciones, rangos, listas, cadenas(strings)
++ [Ejercicio de Conejos][http://rosalind.info/problems/fib/)
++ BioPython IO
+
 
 ## Clase 3
 

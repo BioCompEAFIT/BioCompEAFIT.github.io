@@ -1,7 +1,7 @@
 # lee una cadena de DNA.
 # retorna una cadena de RNA.
 
-cadena = raw_input()
+cadena = raw_input("Por favor ingrese una cadena en DNA")
 
 respuesta = ""
 
