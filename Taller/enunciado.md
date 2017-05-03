@@ -15,14 +15,6 @@ Las cadenas de proteinas son construidas a partir de esos 20 simbolos. El termin
 + [Entrada](prot.txt): Una cadena de RNA correspondiente a una cadena de mRNA (de longitud máxima de 10 kbp)
 + [Salida](out1.out): La cadena resultante que representa la proteina codificada
 
-### Recursos
-
-https://docs.python.org/2/library/string.html
-https://docs.python.org/2/tutorial/datastructures.html
-https://docs.python.org/2/tutorial/inputoutput.html
-https://docs.python.org/2/library/functions.html#range
-https://docs.python.org/2/library/functions.html#round
-
 ### _sugerencia_:
 
 Del archivo de la tabla de codones cree un diccionario cuya clave sea el codon y cuyo valor el aminoacido.
@@ -43,3 +35,11 @@ El peso estándar asignado a cada miembro del alfabeto de aminoácidos de 20 sí
 
 Del archivo de la tabla de masas cree un diccionario cuya clave sea el simbolo y cuyo valor la masa.
 De la entrada leer la linea y tomar cada simbolo, buscarlo en el diccionario, retornar la suma de los pesos
+
+### Recursos
+
+https://docs.python.org/2/library/string.html
+https://docs.python.org/2/tutorial/datastructures.html
+https://docs.python.org/2/tutorial/inputoutput.html
+https://docs.python.org/2/library/functions.html#range
+https://docs.python.org/2/library/functions.html#round
