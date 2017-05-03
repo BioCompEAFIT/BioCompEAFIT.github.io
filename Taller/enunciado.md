@@ -2,7 +2,7 @@
 ## Evaluación Modulo Python
 
 
-### **_Fecha de Entrega_**: 2017-04-14
+### **_Fecha de Entrega_**: 2017-04-14 11:59pm por EAFIT INTERACTIVA
 
 ## Punto 1 (50%)
 
