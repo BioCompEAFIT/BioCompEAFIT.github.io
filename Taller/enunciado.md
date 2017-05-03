@@ -22,7 +22,7 @@ https://docs.python.org/2/tutorial/inputoutput.html
 https://docs.python.org/2/library/functions.html#range
 https://docs.python.org/2/library/functions.html#round
 
-### TIP:
+### _sugerencia_:
 
 Del archivo de la tabla de codones cree un diccionario cuya clave sea el codon y cuyo valor el aminoacido.
 De la entrada leer la linea y tomar cada codones (3 caracteres), buscar el aminoacido correspondiente en el diccionario, crear una cadena  resultante a partir de los aminoacidos leidos.
@@ -38,7 +38,7 @@ El peso estándar asignado a cada miembro del alfabeto de aminoácidos de 20 sí
 + [Entrada](prtm.in): Una cadena de proteínas de longitud de 1000 aa como máximo.
 + [Salida](p2.out): El peso total de. Consulte la [tabla de masa monoisotópica](masstable.txt).
 
-### TIP:
+### _sugerencia_:
 
 Del archivo de la tabla de masas cree un diccionario cuya clave sea el simbolo y cuyo valor la masa.
 De la entrada leer la linea y tomar cada simbolo, buscarlo en el diccionario, retornar la suma de los pesos
