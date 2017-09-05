@@ -41,6 +41,7 @@
 
 ## Clase 3
 
+  + [TAREA](ejercicios.md)
   + Graficas
   + Reconstruccion de Vias Metabolicas
   + Genomas
