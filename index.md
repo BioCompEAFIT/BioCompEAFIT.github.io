@@ -28,7 +28,7 @@
   + Entrada y Salida 2 (lectura de archivos)
 
   + Recursos:
-    + (Python Workbook) [https://ezproxy.eafit.edu.co:2183/book/10.1007%2F978-3-319-14240-1]
+    + [Python Workbook] (https://ezproxy.eafit.edu.co:2183/book/10.1007%2F978-3-319-14240-1)
 
 ### Tareas
 
