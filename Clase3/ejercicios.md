@@ -11,5 +11,4 @@
 # Valentina:
   + 5,28,41,51,64,79,89,93,106,129,130,142
 
-Quienes no vinieron escogen ejercicios que no
-hayan sido elegidos.
+## **Quienes no vinieron escogen ejercicios que no hayan sido elegidos.**
