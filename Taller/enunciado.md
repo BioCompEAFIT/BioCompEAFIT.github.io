@@ -1,8 +1,5 @@
 # Bipología Computacional
-## Evaluación Modulo Python
-
-
-### **_Fecha de Entrega_**: 2017-04-14 11:59pm por EAFIT INTERACTIVA
+## Modulo Python
 
 ## Punto 1 (50%)
 

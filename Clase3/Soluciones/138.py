@@ -3,6 +3,7 @@ import random
 midict = {"B":range(1,16),"I":range(16,31),"N":range(31,46),"G":range(46,61),"O":range(61,76)}
 
 def tarjeta(midict):
+
     la_tarjeta = {}
     la_tarjeta["B"] = sorted(random.sample(midict["B"],5))
     la_tarjeta["I"] = sorted(random.sample(midict["I"],5))
